@@ -158,5 +158,11 @@ namespace Блокнотик
                 fontSetts.Close();
             }
         }
+
+        private void оПрограммеToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AboutTheProgramm open_form = new AboutTheProgramm();
+            open_form.Show();
+        }
     }
 }

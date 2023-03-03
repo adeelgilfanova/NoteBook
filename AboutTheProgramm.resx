@@ -117,4 +117,20 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Microsoft Windows
+Версия 21Р2 (сборка ОС 19055.2432)
+Корпорация Майкрософт (Microcoft Corporation). Все права
+
+Операционная система Windows 10 Pro и пользовательский
+интерфейс в ней защищены права на товарные знаки и иные
+обьекты интеллектуальной собственности в США и других странах.
+
+
+
+
+Продукт лицензирован в соотв. с усл.лиц.соглашения на
+исп.ПО.корпорации Майкрософт, выданного:
+YourName</value>
+  </data>
 </root>

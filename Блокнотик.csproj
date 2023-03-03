@@ -83,6 +83,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -96,6 +97,30 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tlo-pic_32ratio_900x600-900x600-64930.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\341123-Windows_10-colorful-window.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\341123-Windows_10-colorful-window.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tlo-pic_32ratio_900x600-900x600-649301.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tlo-pic_32ratio_900x600-900x600-64930.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\341123-Windows_10-colorful-window1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iStock-157437670-1200x720.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7e952c0415bd8523a593e1549af285c8.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

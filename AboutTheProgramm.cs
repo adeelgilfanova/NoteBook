@@ -16,5 +16,20 @@ namespace Блокнотик
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void AboutTheProgramm_Load(object sender, EventArgs e)
+        {
+            buttonOK.FlatAppearance.BorderColor = System.Drawing.Color.Blue;
+        }
+
+        private void buttonOK_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
